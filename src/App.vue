@@ -11,7 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <HelloWorld msg="You did it! Commit1" />
 
       <nav>
-        <RouterLink to="/">Home2</RouterLink>
+        <RouterLink to="/">Home -Commit2</RouterLink>
         <RouterLink to="/about">About2</RouterLink>
       </nav>
     </div>
